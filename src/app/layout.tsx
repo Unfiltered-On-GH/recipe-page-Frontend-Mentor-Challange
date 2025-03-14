@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Outfit, Young_Serif } from "next/font/google";
+import { Outfit, Young_Serif } from "next/font/google";
 import "./globals.css";
 
 const outfitSans = Outfit({
