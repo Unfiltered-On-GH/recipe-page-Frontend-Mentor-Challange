@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="justify-items-center md:p-8 lg:pb-20 font-[family-name:var(--font-outfit-sans)] bg-orange-100 text-gray-900">
+    <div className=" self-center  justify-items-center md:p-8 lg:pb-20 font-[family-name:var(--font-outfit-sans)] bg-orange-100 text-gray-900">
       <div className=" bg-white md:p-5 rounded-xl w-full lg:w-2xl">
         <div className="">
           <Image

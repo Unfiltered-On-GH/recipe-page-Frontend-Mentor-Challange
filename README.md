@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Frontend Mentor - Recipe page solution
 
-## Getting Started
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Screenshot
 
-## Learn More
+![](./screenshot.jpeg)
 
-To learn more about Next.js, take a look at the following resources:
+![](./Screenshot_mobile.jpg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Solution URL: [Here](https://github.com/Unfiltered-On-GH/recipe-page-Frontend-Mentor-Challange)
+- Live Site URL: [Here](https://recipe-page-frontend-mentor-challange.vercel.app/)
 
-## Deploy on Vercel
+## My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Node JS](https://nodejs.org/) - cross-platform JS runtime environment
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+
+### What I learned
+
+I have learnt how to style list markers and do multiple line indetention.
+
+### Useful resources
+
+- [Tailwind Documentation](https://tailwindcss.com/docs) - Learn an easier way of writting CSS Code.
+
+## Author
+
+- Website - [Codebench Software Developers](https://www.thecodebench.com.com)
+- Frontend Mentor - [@Unfiltered-On-GH](https://www.frontendmentor.io/profile/Unfiltered-On-GH)
+- Github - [@Unfiltered-On-GH](https://github.com/Unfiltered-On-GH)
+- X - [@MabikaDevelops](https://x.com/MabikaDevelops)
+
+## Acknowledgments
+
+I thank [Frontend Mentors](https://www.frontendmentor.io/profile/Unfiltered-On-GH) for these challanges.
